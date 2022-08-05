@@ -1,0 +1,19 @@
+.main__card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  max-height: 400px;
+}
+
+.card__image {
+  display: flex;
+  align-self: center;
+  justify-self: center;
+  height: 50%;
+  width: auto;
+}
+
+.card__content {
+  display: flex;
+  flex-direction: column;
+}
